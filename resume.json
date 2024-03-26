@@ -192,22 +192,22 @@
         {
             "work_name": "智慧教室",
             "work_desc": "群体课堂专注度分析、考试作弊系统、动态点名功能的Qt Demo，使用多人姿态估计、情绪识别、人脸识别、静默活体检测等技术",
-            "visit_link": "https://github.com/ASVRC/smart_classroom_demo"
+            "visit_link": "javascript:alert('项目为二进制程序，如需鉴赏请在通过简历中的联系方式联系开发者!')"
         },
         {
             "work_name": "SVRC::CTF",
             "work_desc": "基于ASP.NET Core、Vue、Docker、K8S、Redis、PostGreSQL等技术栈开发的水电学院集训队专用CTF平台",
-            "visit_link": "https://github.com/ASVRC/SVRC-CTF"
+            "visit_link": "https://ctf.asvrc.com:10000/"
         },
         {
             "work_name": "SVRC-GPT For IDA",
             "work_desc": "基于GPT 4.0语言大模型开发的IDA Pro二进制分析插件，用于帮助用户分析程序代码逻辑，并且自动寻找漏洞点以及完善注释伪代码",
-            "visit_link": "https://github.com/ASVRC/SVRC-CTF"
+            "visit_link": "javascript:alert('项目为二进制程序，如需鉴赏请在通过简历中的联系方式联系开发者!')"
         },
         {
             "work_name": "自动化渗透武器库",
             "work_desc": "基于Python语言开发的漏洞自动检测并且多线程高并发进行渗透、采集关键信息的程序",
-            "visit_link": "https://github.com/ASVRC/SVRC-CTF",
+            "visit_link": "javascript:alert('项目为二进制程序，如需鉴赏请在通过简历中的联系方式联系开发者!')",
             "dataIndex": 3
         }
     ],
